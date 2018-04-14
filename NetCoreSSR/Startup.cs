@@ -15,6 +15,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using NetCoreSSR.Services;
 
 namespace NetCoreSSR {
   class HtmlOutputFormatter : StringOutputFormatter {
@@ -40,7 +41,10 @@ namespace NetCoreSSR {
       services.Configure<MvcOptions>(options =>
         options.OutputFormatters.Add(new HtmlOutputFormatter())
       );
-
+           
+      // Service DI.
+      services.AddSingleton<VueRenderer>();
+      
       services.AddMvc();
     }
 
