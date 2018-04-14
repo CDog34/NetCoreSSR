@@ -1,0 +1,5 @@
+F:\DevArea\playground\NetCoreSSR\NetCoreSSR
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=NetCoreSSR
+--content-root=F:\DevArea\playground\NetCoreSSR\NetCoreSSR
+--file=

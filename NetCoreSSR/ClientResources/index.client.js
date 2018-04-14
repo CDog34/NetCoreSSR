@@ -36,6 +36,7 @@ const App = {
         '<span>Count: {{count}}</span>' +
         '<button @click="increase" style="margin-left: 10px">Increase</button>' +
       '</div>' +
+      '<div style="margin: 10px"><a href="/update">Update html cache</a></div>' +
     '</div>',
 
   created () {
