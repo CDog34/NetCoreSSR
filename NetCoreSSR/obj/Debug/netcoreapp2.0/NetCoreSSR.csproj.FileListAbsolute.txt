@@ -1,0 +1,11 @@
+F:\DevArea\playground\NetCoreSSR\NetCoreSSR\bin\Debug\netcoreapp2.0\NetCoreSSR.deps.json
+F:\DevArea\playground\NetCoreSSR\NetCoreSSR\bin\Debug\netcoreapp2.0\NetCoreSSR.runtimeconfig.json
+F:\DevArea\playground\NetCoreSSR\NetCoreSSR\bin\Debug\netcoreapp2.0\NetCoreSSR.runtimeconfig.dev.json
+F:\DevArea\playground\NetCoreSSR\NetCoreSSR\bin\Debug\netcoreapp2.0\NetCoreSSR.dll
+F:\DevArea\playground\NetCoreSSR\NetCoreSSR\bin\Debug\netcoreapp2.0\NetCoreSSR.pdb
+F:\DevArea\playground\NetCoreSSR\NetCoreSSR\obj\Debug\netcoreapp2.0\NetCoreSSR.csproj.CoreCompileInputs.cache
+F:\DevArea\playground\NetCoreSSR\NetCoreSSR\obj\Debug\netcoreapp2.0\NetCoreSSR.AssemblyInfoInputs.cache
+F:\DevArea\playground\NetCoreSSR\NetCoreSSR\obj\Debug\netcoreapp2.0\NetCoreSSR.AssemblyInfo.cs
+F:\DevArea\playground\NetCoreSSR\NetCoreSSR\obj\Debug\netcoreapp2.0\NetCoreSSR.dll
+F:\DevArea\playground\NetCoreSSR\NetCoreSSR\obj\Debug\netcoreapp2.0\NetCoreSSR.pdb
+F:\DevArea\playground\NetCoreSSR\NetCoreSSR\obj\Debug\netcoreapp2.0\NetCoreSSR.csprojResolveAssemblyReference.cache

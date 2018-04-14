@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+      h1 {
+        font-weight: normal;
+      }
+      
+      .app {
+        padding: 20px;
+        margin: 50px;
+        color: #4fc08d;
+        text-align: center;
+      }
+    </style>
+  </head>
+  
+  <body>
+    <div class="app-container">${SSR_OUTLET}</div>
+    <script src="https://cdn.bootcss.com/vue/2.5.16/vue.min.js"></script>
+    <script src="https://cdn.bootcss.com/vuex/3.0.1/vuex.js"></script>
+    <script>${CLIENT_SCRIPT}</script>
+  </body>
+</html>
